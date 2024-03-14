@@ -4,7 +4,6 @@ Library    SeleniumLibrary    timeout=60s
 *** Variables ***
 ${url}=    https://www.saucedemo.com/
 
-
 *** Keywords ***
 Given User access the SauceDemo website
     Open Browser    url=${url}    browser=Chrome
