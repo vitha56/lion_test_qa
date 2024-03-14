@@ -4,7 +4,6 @@
   - Install Robot Framework
 2. Install Library dependencies:
   - Install seleniumlibrary '''pip install --upgrade robotframework-seleniumlibrary
-  - Install Request '''pip install robotframework-requests
 3. Install web testing
   - Install chromedriver (For running web automation on chrome browser). 
     https://chromedriver.chromium.org/downloads
